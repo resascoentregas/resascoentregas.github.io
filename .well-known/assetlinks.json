@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.resascoentregas.twa",
+      "sha256_cert_fingerprints": [
+        "CD:2D:36:36:44:46:D4:5B:90:62:F3:46:92:D0:51:BE:54:C6:A3:D0:DF:D5:D6:93:81:78:BB:41:3A:27:08:EC"
+      ]
+    }
+  }
+]
